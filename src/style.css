@@ -15,8 +15,10 @@
   color-scheme: light;
 }
 
+/* Dark palette: follows the system unless the user picked "Lys" or "Mørk"
+   (data-theme on <html>, set from localStorage before first paint). */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #14161c;
     --surface: #1c1f27;
     --ink: #ece6dc;
@@ -30,6 +32,21 @@
     --help-bg: #33241f;
     color-scheme: dark;
   }
+}
+
+:root[data-theme="dark"] {
+  --bg: #14161c;
+  --surface: #1c1f27;
+  --ink: #ece6dc;
+  --muted: #9b958c;
+  --line: #2c303a;
+  --accent: #e0956a;
+  --accent-ink: #1a1308;
+  --chip: #252a34;
+  --warn-bg: #3a3018;
+  --warn-ink: #f3dfa6;
+  --help-bg: #33241f;
+  color-scheme: dark;
 }
 
 * { box-sizing: border-box; }
@@ -146,6 +163,9 @@ h3 { margin: 0 0 4px; font-size: 17px; }
 .list .meta { font-size: 13px; color: var(--muted); }
 .list .star { color: var(--accent); }
 .list .empty { color: var(--muted); padding: 20px 0; }
+
+.theme { margin-top: 28px; }
+.theme .pill { font-size: 14px; padding: 6px 12px; }
 
 .page p { font: 18px/1.6 var(--serif); }
 .guide { padding-left: 1.4em; }

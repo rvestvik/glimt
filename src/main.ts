@@ -2,7 +2,7 @@ import "./style.css";
 import { GLIMT, SITUASJONER, byNr, isKrise, matchesSituasjon } from "./data/glimt.ts";
 import type { Glimt, Inngang, Nivaa, Oyne, Varighet } from "./data/parse.ts";
 import { BILKJORING, HJELP, INTRO, VANLIG } from "./data/veiledning.ts";
-import { store } from "./store.ts";
+import { store, type Tema } from "./store.ts";
 import { bell, unlockAudio } from "./bell.ts";
 
 const app = document.getElementById("app")!;
@@ -74,6 +74,19 @@ function chipRow(name: string, values: readonly string[], selected: string | nul
   </div>`;
 }
 
+const TEMA: [Tema, string][] = [["system", "System"], ["light", "Lys"], ["dark", "Mørk"]];
+
+function applyTema(t: Tema): void {
+  const root = document.documentElement;
+  if (t === "system") delete root.dataset.theme;
+  else root.dataset.theme = t;
+  const light = "#f6f1e8";
+  const dark = "#14161c";
+  document.querySelectorAll<HTMLMetaElement>('meta[name="theme-color"]').forEach((m) => {
+    m.content = t === "system" ? (m.media.includes("dark") ? dark : light) : t === "dark" ? dark : light;
+  });
+}
+
 // ---------- views ----------
 
 function viewHome(): void {
@@ -106,9 +119,24 @@ function viewHome(): void {
       <a href="#/veiledning">Hvordan være til vanlig</a>
       <a href="#/hjelp" class="muted">Har du det tungt?</a>
     </nav>
+
+    <section class="theme">
+      <h2>Utseende</h2>
+      <div class="pick" id="tema">
+        ${TEMA.map(([v, l]) => `<button class="pill ${store.tema === v ? "on" : ""}" data-t="${v}">${l}</button>`).join("")}
+      </div>
+    </section>
   </main>`;
 
-  app.querySelectorAll<HTMLElement>(".pick").forEach((row) =>
+  document.getElementById("tema")!.addEventListener("click", (e) => {
+    const b = (e.target as HTMLElement).closest<HTMLButtonElement>("button");
+    if (!b) return;
+    store.setTema(b.dataset.t as Tema);
+    applyTema(store.tema);
+    viewHome();
+  });
+
+  app.querySelectorAll<HTMLElement>(".pick[data-group]").forEach((row) =>
     row.addEventListener("click", (e) => {
       const b = (e.target as HTMLElement).closest("button");
       if (!b) return;
@@ -387,6 +415,7 @@ function route(): void {
 }
 
 window.addEventListener("hashchange", route);
+applyTema(store.tema);
 route();
 
 if ("serviceWorker" in navigator && import.meta.env.PROD) {

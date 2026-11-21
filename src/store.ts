@@ -23,7 +23,10 @@ export interface Filter {
   tid: string | null;
 }
 
+export type Tema = "system" | "light" | "dark";
+
 export const store = {
+  tema: read<Tema>("glimt.tema", "system"),
   favoritter: new Set<number>(read<number[]>("glimt.fav", [])),
   sett: read<number[]>("glimt.sett", []),
   filter: read<Filter>("glimt.filter", { sit: null, tid: null }),
@@ -38,6 +41,11 @@ export const store = {
   markSett(nr: number): void {
     this.sett = [nr, ...this.sett.filter((n) => n !== nr)].slice(0, 30);
     write("glimt.sett", this.sett);
+  },
+
+  setTema(t: Tema): void {
+    this.tema = t;
+    write("glimt.tema", t);
   },
 
   setFilter(f: Filter): void {
