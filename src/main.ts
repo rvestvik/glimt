@@ -1,5 +1,5 @@
 import "./style.css";
-import { GLIMT, SITUASJONER, byNr, isKrise, matchesSituasjon } from "./data/glimt.ts";
+import { GLIMT, HVOR_SOM_HELST, SITUASJONER, byNr, isKrise, matchesSituasjon } from "./data/glimt.ts";
 import type { Glimt, Inngang, Nivaa, Oyne, Varighet } from "./data/parse.ts";
 import { BILKJORING, HJELP, INTRO, VANLIG } from "./data/veiledning.ts";
 import { store, type Tema } from "./store.ts";
@@ -18,7 +18,8 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
 
 function pool(sit: string | null, tid: string | null): Glimt[] {
   return GLIMT.filter(
-    (g) => (!sit || matchesSituasjon(g, sit)) && (!tid || g.varighet.includes(tid as Varighet)),
+    // No situation picked means "hvor som helst": only glimt that need nothing special.
+    (g) => matchesSituasjon(g, sit ?? HVOR_SOM_HELST) && (!tid || g.varighet.includes(tid as Varighet)),
   );
 }
 
@@ -323,7 +324,7 @@ function viewAlle(params: URLSearchParams): void {
     <h1>Alle glimt</h1>
     <input type="search" id="q" placeholder="Søk i glimt" value="${esc(browse.q)}" autocomplete="off" />
     <div class="filters">
-      ${select("sit", "Situasjon", [...SITUASJONER, "krise"])}
+      ${select("sit", "Situasjon", [HVOR_SOM_HELST, ...SITUASJONER, "krise"])}
       ${select("inngang", "Inngang", ["syn", "lyd", "kropp", "tanke", "følelse"])}
       ${select("oyne", "Øyne", ["åpne", "lukkede"])}
       ${select("tid", "Varighet", TIDER)}

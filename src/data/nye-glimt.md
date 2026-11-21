@@ -27,11 +27,11 @@ Når du føler deg alene, kjenn ensomheten i kroppen. Den kan være tom, kald el
 Tagger: alene, kveld, før søvn · lukkede øyne · følelse · 5 min · erfaren
 
 ## 59. Savn
-Tenk på noen eller noe du savner. Kjenn savnet i brystet, uten å skyve det bort. Legg merke til at savnet er laget av kjærlighet. Hold det mykt, som du ville holdt en liten fugl. Merk at kjærligheten fortsatt er her, akkurat nå, selv om den du savner ikke er det. Hvil i den varmen.
+Tenk på noen eller noe du savner. Kjenn savnet i brystet, uten å skyve det bort. Legg merke til at savnet føles som et hull mellom deg her og den andre der borte. Undersøk hullet. Finner du en grense der du slutter og savnet begynner? Kjenn at savnet ikke er noe du har. Det er bare savn, varmt og sårt, som fyller hele rommet. Ingen står utenfor og holder det.
 Tagger: alene, før søvn, kveld · lukkede øyne · følelse · 1–5 min · nybegynner
 
 ## 60. Utålmodighet
-Når noe går for sakte, legg merke til spenningen: kjeven, fingrene som trommer, pusten som blir kort. Utålmodighet er en kropp som lener seg mot fremtiden. Lén deg litt tilbake, bokstavelig talt. Kjenn ryggen, setet, føttene. Merk at det eneste stedet du noen gang er, er her. Fremtiden kommer, men den kommer alltid som nå.
+Når noe går for sakte, legg merke til spenningen: kjeven, fingrene, pusten som blir kort. Utålmodighet er en kropp som lener seg mot et «senere». Hold blikket der det skal være, og lytt til lydene rundt deg. Prøv å finne dette «senere». Kan du oppleve det? Alt du finner er lyder, sansninger og en tanke om fremtiden, og alt dette skjer nå. Det finnes ikke noe annet sted å komme til.
 Tagger: venting, jobb, bilkjøring (åpne øyne, i kø) · åpne øyne · kropp · 10 sek–1 min · nybegynner
 
 ## 61. Skuffelse
@@ -83,7 +83,7 @@ Når du står i kø, kjenn føttene mot gulvet og vekten som fordeler seg. Legg 
 Tagger: venting · åpne øyne · kropp, lyd · 1 min · nybegynner
 
 ## 73. Tannpussen
-Mens du pusser tennene, gjør bare det. Kjenn børsten mot tennene, smaken av tannkrem, lyden av børstingen. Legg merke til at hånden vet hvor den skal. Ingen trenger å styre. Når tankene drar avgårde mot dagen, kom tilbake til smaken. To minutter med bare tannpuss er et lite glimt hver morgen og kveld.
+Mens du pusser tennene, se deg i speilet. Der borte er et ansikt med en tannbørste. Kjenn så børsten fra der du er: smaken, vibrasjonen, skummet. Legg merke til at det ikke er et ansikt her, bare smak og kjenning som svever i et åpent rom. Ansiktet i speilet har tenner. Her er det bare tannpuss, uten noen som pusser.
 Tagger: morgen, kveld, hjemme · åpne øyne · kropp · 1 min · nybegynner
 
 ## 74. Påkledningen
@@ -99,7 +99,7 @@ Når du går i en trapp, kjenn hvert trinn. Foten løftes, settes ned, vekten fl
 Tagger: jobb, hjemme, trening · åpne øyne · kropp · 10 sek–1 min · nybegynner
 
 ## 77. Tur med hunden
-På tur med hunden: legg merke til hvordan hunden er helt til stede. Den snuser, ser, lytter, uten å tenke på i går eller i morgen. Følg den med oppmerksomheten. Kjenn båndet i hånden, luften, lydene. La hundens nærvær minne deg på ditt eget. Det er ingen annen tur enn denne.
+På tur med hunden: følg hunden med oppmerksomheten. Den snuser, ser og lytter helt uten å tenke på seg selv. Kjenn båndet i hånden, luften og lydene. Legg merke til at båndet går fra hunden og til en hånd, men at hånden ikke ender i noe hode. Det er bare båndet, hånden og landskapet som strømmer forbi, i ett åpent rom. Hunden og du går i det samme.
 Tagger: tur, natur, morgen · åpne øyne · syn, lyd, kropp · 1–5 min · nybegynner
 
 ## 78. Rødt lys
@@ -107,7 +107,7 @@ Når bilen står stille ved rødt lys, behold blikket på trafikklyset og veien.
 Tagger: bilkjøring (stillestående, åpne øyne), venting · åpne øyne · kropp, lyd · 10 sek · nybegynner
 
 ## 79. På holdeplassen
-Mens du venter på bussen eller toget, se på det som er rundt deg: himmelen, bygningene, menneskene. Lytt til trafikken, vinden, stemmene. Legg merke til at du ikke venter på å leve. Dette er livet, akkurat nå, på en holdeplass. Bussen kommer når den kommer.
+Mens du venter på bussen eller toget, se på det som er rundt deg: himmel, bygninger, mennesker. Legg merke til at det ser ut som om alt er der ute og du står her inne og ser. Undersøk det. Finner du stedet der seingen slutter og bygningene begynner? Synet av holdeplassen og seingen av den er ikke to. Bussen kommer inn i dette synsfeltet når den kommer.
 Tagger: venting, tur · åpne øyne · syn, lyd · 1–5 min · nybegynner
 
 ## 80. Rydding
@@ -119,7 +119,7 @@ Når du våkner og før du står opp, kjenn kroppen i sengen: varmen under dyna,
 Tagger: morgen · lukkede øyne · kropp · 1 min · nybegynner
 
 ## 82. Lytte uten å svare
-I en samtale: lytt til den andre uten å planlegge hva du skal si. Når du merker at du forbereder et svar, slipp det og lytt igjen. Kjenn stemmen, ordene, pausene. Legg merke til at det blir mer rom mellom dere når du ikke fyller det. Svaret kommer når det trengs, og det kommer ofte bedre.
+I en samtale: lytt til den andre uten å planlegge hva du skal si. Legg merke til at stemmen deres ikke kommer inn i deg fra et sted der borte. Den bare klinger, her, i den samme lyttingen som dine egne tanker klinger i. Når du merker at du forbereder et svar, slipp det og lytt igjen. Det er ikke to personer som lytter og snakker, bare samtale som skjer.
 Tagger: samtale, jobb · åpne øyne · lyd · 1–5 min · nybegynner
 
 ## 83. Øynene til den andre
@@ -175,7 +175,7 @@ Når det er stille om natten, lytt til stillheten. Kanskje hører du et kjølesk
 Tagger: før søvn, kveld, alene · lukkede øyne · lyd · 1–5 min · nybegynner
 
 ## 96. Når du ikke får sove
-Når søvnen ikke kommer, slutt å prøve å sove. Kjenn heller kroppen der den ligger: tyngden, varmen, pusten. Legg merke til tankene som kverner, uten å følge dem. La dem være lyd i bakgrunnen. Det er ingenting du må få til akkurat nå. Bare ligg her, i hvile, med det som er. Søvnen kommer lettere når ingen jager den.
+Når søvnen ikke kommer, slutt å prøve å sove. Kjenn kroppen der den ligger: tyngden, varmen, pusten. Legg merke til tankene som kverner, og spør stille: Hvem er det som ikke får sove? Let etter den uten å anstrenge deg. Du finner sansninger, tanker og mørke, men ingen søvnløs person bak dem. Det som er klar over natten, trenger ikke sove. Hvil i det, og la søvnen komme når den vil.
 Tagger: før søvn, når urolig · lukkede øyne · kropp, tanke · 5 min · nybegynner
 
 ## 97. Kvelden som runder av
@@ -184,19 +184,19 @@ Tagger: kveld, før søvn, hjemme · lukkede øyne · tanke, følelse · 1–5 m
 
 ## 98. Hvem hører?
 Lytt til en lyd. Spør så: Hvem er det som hører? Prøv å finne den som lytter. Er den bak ørene, inni hodet, i brystet? Hver gang du leter, finner du bare mer lyd og mer lytting. Legg merke til at det ikke finnes noen lytter adskilt fra lyden. Bare hørsel, åpen og uten senter.
-Tagger: alene, tur, bilkjøring (åpne øyne) · åpne/lukkede · lyd, tanke · 1–5 min · erfaren
+Tagger: hvor som helst, alene, tur, bilkjøring (åpne øyne) · åpne/lukkede · lyd, tanke · 1–5 min · erfaren
 
 ## 99. Tidløs
 Prøv å kjenne bevisstheten din da du var barn. Var den annerledes enn den du er klar over nå? Tankene, kroppen og livet har forandret seg helt. Men det som var klar over livet da og det som er klar over det nå, kjennes likt. Det har ingen alder. Hvil i det som ikke er blitt eldre.
-Tagger: alene, før søvn · lukkede øyne · tanke · 5 min · erfaren
+Tagger: hvor som helst, alene, før søvn · lukkede øyne · tanke · 5 min · erfaren
 
 ## 100. Hvem tenker tanken?
 Når en tanke dukker opp, se etter hvor den kom fra. Prøv å se den neste tanken bli født. Den kommer fra ingensteds og forsvinner til ingensteds. Spør: Lager jeg tankene, eller dukker de bare opp? Legg merke til at tankene skjer, akkurat som lyder skjer. Du er ikke tenkeren, men rommet tankene oppstår i.
-Tagger: alene, venting · åpne/lukkede · tanke · 1 min · erfaren
+Tagger: hvor som helst, alene, venting · åpne/lukkede · tanke · 1 min · erfaren
 
 ## 101. Akkurat dette
-Uansett hvor du er og hva du gjør: stopp i tre sekunder og si stille «akkurat dette». Kjenn alt som er her: lyder, kropp, syn, følelser, tanker. Ikke velg ut noe, ikke skyv noe bort. La alt være akkurat som det er. Dette er det eneste øyeblikket som finnes, og det er nok.
-Tagger: alle situasjoner, jobb, venting · åpne øyne · syn, lyd, kropp · 10 sek · nybegynner
+Uansett hvor du er og hva du gjør: stopp i tre sekunder og si stille «akkurat dette». Kjenn alt som er her: lyder, kropp, syn, følelser, tanker. Ikke velg ut noe. Legg så merke til at det ikke finnes noen utenfor «akkurat dette» som ser på det. Den som sier ordene, er også en del av det. Det er bare dette, uten et sted å se det fra.
+Tagger: hvor som helst, alle situasjoner, jobb, venting · åpne øyne · syn, lyd, kropp · 10 sek · nybegynner
 
 ## 102. Morgenkaffen
 Hold koppen med begge hender før du drikker. Kjenn varmen gjennom porselenet, dampen mot ansiktet, duften som kommer av seg selv. Ta den første slurken sakte. Legg merke til at smaken bare dukker opp. Du lager den ikke. Før dagen fyller hodet med planer, kjenn at det bare er varme, smak og en stille våkenhet som tar imot alt sammen.
@@ -207,7 +207,7 @@ Drikk et glass vann og kjenn hele turen: kulden mot leppene, vannet over tungen,
 Tagger: jobb, hjemme, måltid, trening · åpne/lukkede · kropp · 10 sek–1 min · nybegynner
 
 ## 104. Før første bit
-Når maten står foran deg, vent ett pust før du begynner. Se fargene, kjenn duften, legg merke til sulten i kroppen. Kjenn at all denne maten har kommet fra sol, regn, jord og mange hender. Ingenting av det er adskilt fra deg, for snart blir det deg. La pausen være kort og enkel. Så spis.
+Når maten står foran deg, vent ett pust før du begynner. Se fargene, kjenn duften, legg merke til sulten i kroppen. Spør: Hvor er duften? Er den der borte i tallerkenen, eller her i nesen? Prøv å finne grensen mellom maten og opplevelsen av den. Du finner bare dufting, sulten og fargene, i ett felt. Så spis, og legg merke til at det ikke er noen som spiser. Det er bare smaking.
 Tagger: måltid · åpne øyne · syn, kropp · 10 sek · nybegynner
 
 ## 105. Mett
@@ -232,7 +232,7 @@ Tagger: trening, hjemme · lukkede øyne · kropp · 1–5 min · nybegynner
 
 ## 110. Takknemlighet
 Tenk på én ting du er takknemlig for i dag. Ikke en liste, bare én ting. Kjenn varmen den gir i brystet. La den vokse litt. Legg så merke til at takknemligheten ikke trenger en mottaker eller en giver. Den er bare åpenhet som strømmer ut. Kjenn at takknemlighet og bevissthet ligner hverandre: begge tar imot uten å holde fast.
-Tagger: kveld, før søvn, når lykkelig · lukkede øyne · følelse · 1 min · nybegynner
+Tagger: hvor som helst, kveld, før søvn, når lykkelig · lukkede øyne · følelse · 1 min · nybegynner
 
 ## 111. Solnedgangen
 Se på himmelen mens solen går ned. Legg merke til fargene som skifter, sakte og uten å stoppe. Prøv ikke å ta bilde, verken med telefonen eller med tankene. La skjønnheten skje. Legg merke til at du nesten forsvinner når du ser på noe så vakkert. Det er ikke du som ser solnedgangen. Det er bare solnedgang, og en stille seing.
@@ -244,14 +244,14 @@ Tagger: jobb, når lykkelig · åpne øyne · følelse, tanke · 10 sek–1 min 
 
 ## 113. Kjærligheten
 Tenk på noen du er glad i, eller se på dem hvis de er i nærheten. Kjenn varmen som strømmer. Legg merke til at kjærligheten ikke føles som noe som skjer inni deg og går over til den andre. Den føles mer som et felt dere begge er i. Kjenn hvor grensen mellom deg og den du elsker blir uklar. Kjærlighet er nondualitet som føles.
-Tagger: samtale, hjemme, når lykkelig · åpne/lukkede · følelse · 1 min · nybegynner
+Tagger: hvor som helst, samtale, hjemme, når lykkelig · åpne/lukkede · følelse · 1 min · nybegynner
 
 ## 114. Skjermen er et vindu
 Se på skjermen foran deg og legg merke til hele flaten: lyset, fargene, bokstavene. Utvid så blikket litt, så du også ser rammen, bordet og veggen. Legg merke til at skjermen er en liten firkant i et mye større synsfelt. Og hele synsfeltet er en liten bevegelse i et enda større rom. Gå tilbake til skjermen uten å miste rommet.
 Tagger: skjerm, jobb · åpne øyne · syn · 10 sek–1 min · nybegynner
 
 ## 115. Før du trykker send
-Rett før du sender en melding eller en e-post, stopp med fingeren over knappen. Ta ett pust. Kjenn kroppen: er den rolig eller anspent? Legg merke til ordene som vil ut og hvem som vil sende dem. Bare se. Kanskje sender du den uendret. Kanskje ikke. Uansett sendte du den fra et litt mer våkent sted.
+Rett før du sender en melding eller en e-post, stopp med fingeren over knappen. Ta ett pust. Legg merke til at ordene på skjermen ble skrevet, men prøv å finne den som skrev dem. Tankene kom av seg selv, fingrene beveget seg av seg selv. Finner du en forfatter bak? Send meldingen hvis den fortsatt føles riktig, og legg merke til at sendingen også bare skjer.
 Tagger: skjerm, jobb · åpne øyne · kropp, tanke · 10 sek · nybegynner
 
 ## 116. Lokket lukkes
@@ -280,15 +280,15 @@ Tagger: bilkjøring (åpne øyne, rolig vei), tur · åpne øyne · syn · 1 min
 
 ## 122. Hånden som vokser
 Strekk armen ut og se på hånden. Før den sakte mot ansiktet. Legg merke til at hånden blir større og større i synsfeltet. Når den nesten treffer, prøv å finne stedet den skal treffe. Er det et ansikt der, eller bare den åpne plassen der hånden forsvinner inn? Se det, ikke tenk det. Hånden er der borte. Her er det bare rom.
-Tagger: alene · åpne øyne · syn · 1 min · erfaren
+Tagger: hvor som helst, alene · åpne øyne · syn · 1 min · erfaren
 
 ## 123. Kroppen uten bilde
 Lukk øynene og kjenn kroppen. Legg så merke til at du har et indre bilde av den: formen, størrelsen, hvordan du ser ut. Slipp bildet og kjenn bare sansningene slik de faktisk er. Hvor store er de? Har de en ytterkant? Er det en kropp, eller en sky av prikking, varme og trykk som svever i et åpent rom?
-Tagger: alene, før søvn · lukkede øyne · kropp · 1–5 min · erfaren
+Tagger: hvor som helst, alene, før søvn · lukkede øyne · kropp · 1–5 min · erfaren
 
 ## 124. Ikke gjør noe
 Sett deg ned og bestem at du ikke skal gjøre noe i ett minutt. Ikke meditere, ikke slappe av, ikke prøve å være til stede. Hvis du merker at du prøver, la det være også. Legg merke til hva som er igjen når all innsats får hvile. Det er ikke ingenting. Det er en stille, våken væren som aldri har krevd noe av deg.
-Tagger: alene, venting, hjemme · åpne/lukkede · tanke · 1–5 min · nybegynner
+Tagger: hvor som helst, alene, venting, hjemme · åpne/lukkede · tanke · 1–5 min · nybegynner
 
 ## 125. Når det gjør vondt
 Når kroppen verker, flytt oppmerksomheten forsiktig inn i smerten, ikke bort fra den. Hvor sitter den nøyaktig? Er den stikkende, dunkende eller brennende? Har den en kant? Legg merke til at smerten forandrer seg litt hele tiden, og at det finnes områder rundt den som ikke gjør vondt. Kjenn rommet smerten er i. Rommet har ikke vondt.
@@ -299,7 +299,7 @@ Når du låser opp døren og kommer hjem, stopp rett innenfor. Kjenn lukten av h
 Tagger: hjemme, kveld · åpne øyne · kropp, følelse · 10 sek · nybegynner
 
 ## 127. Håndvasken
-Når du vasker hendene, kjenn vannet: temperaturen, trykket, såpen som blir glatt mellom fingrene. Legg merke til at hver bevegelse skjer av seg selv. Kjenn hendene innenfra, ikke som noe du ser på, men som levende kjenning. La vasken ta de sekundene den tar, uten å skynde deg videre.
+Når du vasker hendene, kjenn vannet: temperaturen, trykket, såpen mellom fingrene. Se ned på hendene. De ser ut som de er festet til armer som går opp mot deg. Følg armene med blikket. Hvor ender de? I et åpent rom uten skuldre og hode, der vannet og hendene dukker opp. Det er ingen som vasker, bare vask.
 Tagger: jobb, hjemme · åpne øyne · kropp · 10 sek · nybegynner
 
 ## 128. Sykkelturen

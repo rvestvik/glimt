@@ -18,6 +18,9 @@ Rediger markdown-filene i `src/data/`. Hvert glimt er en `## <nr>. <tittel>`-blo
 `Tagger:`-linje med fem felt skilt med `·`. `scripts/check.ts` kjøres før bygging og stopper deployen
 hvis numrene ikke er sammenhengende eller et glimt for bilkjøring har lukkede øyne.
 
+Situasjonen `hvor som helst` betyr at glimtet ikke krever noe spesielt (sted, ting, aktivitet eller
+følelse). Det er bare disse appen trekker fra når «Hvor som helst» er valgt.
+
 ## Deploy
 
 Push til `main` bygger og deployer til Azure Static Web App `glimt` (ressursgruppe `kengurune`).
