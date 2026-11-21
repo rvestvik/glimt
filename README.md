@@ -2,7 +2,7 @@
 
 Korte nonduale glimt for hverdagen, på **[glimt.kengurune.com](https://glimt.kengurune.com)**.
 
-131 glimt: 51 originale (`src/data/glimt.md`) og 80 nye (`src/data/nye-glimt.md`), tagget med
+231 glimt: 51 originale (`src/data/glimt.md`) og 180 nye (`src/data/nye-glimt.md`), tagget med
 Situasjon · Øyne · Inngang · Varighet · Nivå. Appen trekker et tilfeldig glimt etter hvor du er og
 hvor lang tid du har, har timer med klokkelyd, favoritter, søk og filter, og virker offline (PWA).
 
